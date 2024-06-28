@@ -1,23 +1,12 @@
-### Hi there 👋 I'm Lwando
+Hi there 👋 I'm Lwando Kasuba.
+- 🌱 I’m currently learning to survive.
+- 👨🏾‍💻 Computer Science Grad `class of 2023`.
+- 💻 I use arch btw.
+
+Some Stats:
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=lwandokasuba&theme=radical&hide_border=false)
 
 <!--
-**lwandokasuba/lwandokasuba** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-
-<a href="https://github.com/lwandokasuba">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lwandokasuba&theme=radical&show_icons=true&count_private=true&include_all_commits=true&hide=stars" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lwandokasuba&theme=radical&layout=compact&count_private=true" />
-</a>
+![](https://wakatime.com/share/@90b76d0a-3f7a-436c-aded-f682e79672a5/39196048-5185-408e-b668-a392940fffee.svg)
 -->
-
