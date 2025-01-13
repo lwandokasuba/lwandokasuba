@@ -4,6 +4,8 @@ Hi there 👋 I'm Lwando Kasuba.
 <!-- - 💻 I use Arch btw. -->
 
 Some Stats:
+<br />
+<a href="https://wakatime.com/@90b76d0a-3f7a-436c-aded-f682e79672a5"><img src="https://wakatime.com/badge/user/90b76d0a-3f7a-436c-aded-f682e79672a5.svg" alt="Total time coded since May 16 2024" /></a>
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=lwandokasuba&theme=radical&hide_border=false)
 
