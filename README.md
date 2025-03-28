@@ -3,8 +3,8 @@
     - 🌱 I'm currently trying to survive, exploring the exciting world of Go (Golang) and leveling up my skills! 🚀 <br>
     - 👨🏾‍💻 The Copperbelt University Computer Science Grad, Class of 2023. Ready to code! 🚀 <br>
     - ✨ Expert in TypeScript, building scalable and maintainable applications. <br>
-    - Passionately interested in Linux, AI and Cloud Computing, always eager to learn and explore. ☁️ 🐧 <br>
-    - When I'm not coding, you might find me staring intently at a chessboard, trying to avoid checkmate. 😅 ♟️
+    - 😃 Passionately interested in Linux, AI and Cloud Computing, always eager to learn and explore. ☁️ 🐧 <br>
+    - 😅 When I'm not coding, you might find me staring intently at a chessboard, trying to avoid checkmate. ♟️
 </p>
 
 <h2 class="section-title">Tech Skills 💻</h2>
@@ -41,3 +41,5 @@
 
 
 <a href="https://wakatime.com/@90b76d0a-3f7a-436c-aded-f682e79672a5"><img src="https://wakatime.com/badge/user/90b76d0a-3f7a-436c-aded-f682e79672a5.svg" alt="Total time coded since May 16 2024" /></a>
+
+<a href="https://gitroll.io/profile/u5QJOyJrmB4YXeRBPjG38xAZPOYw1" target="_blank"><img src="https://gitroll.io/api/badges/profiles/v1/u5QJOyJrmB4YXeRBPjG38xAZPOYw1?theme=tokyoNight" alt="GitRoll Profile Badge"/></a>
