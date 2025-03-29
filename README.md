@@ -42,4 +42,6 @@
 
 <a href="https://wakatime.com/@90b76d0a-3f7a-436c-aded-f682e79672a5"><img src="https://wakatime.com/badge/user/90b76d0a-3f7a-436c-aded-f682e79672a5.svg" alt="Total time coded since May 16 2024" /></a>
 
+<!--
 <a href="https://gitroll.io/profile/u5QJOyJrmB4YXeRBPjG38xAZPOYw1" target="_blank"><img src="https://gitroll.io/api/badges/profiles/v1/u5QJOyJrmB4YXeRBPjG38xAZPOYw1?theme=tokyoNight" alt="GitRoll Profile Badge"/></a>
+-->
